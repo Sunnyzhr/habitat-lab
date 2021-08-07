@@ -4,6 +4,7 @@
 
 Habitat-API
 ==============================
+**Forked form https://github.com/facebookresearch/habitat-lab**
 
 Habitat-API is a modular high-level library for end-to-end development in embodied AI --
 defining embodied AI tasks (e.g. navigation, instruction following, question answering), configuring embodied agents (physical form, sensors, capabilities), training these agents (via imitation or reinforcement learning, or no learning at all as in classical SLAM), and benchmarking their performance on the defined tasks using standard metrics.
