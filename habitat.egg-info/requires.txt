@@ -1,0 +1,13 @@
+tqdm>=4.0.0
+tb-nightly
+numpy-quaternion>=2019.3.18.14.33.20
+torch==1.1.0
+yacs>=0.1.5
+tensorflow==1.13.1
+imageio>=2.2.0
+scipy>=1.0.0
+attrs>=19.1.0
+opencv-python>=3.3.0
+numpy>=1.16.1
+gym==0.10.9
+imageio-ffmpeg>=0.2.0
